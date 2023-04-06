@@ -1,2 +1,2 @@
 # cse110
-[user page](thekangster.github.io)
+[user page](https://thekangster.github.io/)
